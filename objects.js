@@ -11,6 +11,6 @@ return playList[artistName] = songTitle
 
 
 function removeFromPlaylist(playList, artistName){
-  delete playList.artistName;
-  return playList
+return  delete playList.artistName;
+//  return playList
 }
