@@ -10,7 +10,7 @@ return playList[artistName] = songTitle
 
 
 
-function removeFromPlaylist(playList, artistName){
-return  delete playList.artistName;
+function removeFromPlaylist(playlist, artistName){
+return  delete playlist.artistName;
 //  return playList
 }
