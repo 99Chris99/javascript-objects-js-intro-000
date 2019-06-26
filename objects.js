@@ -1,4 +1,4 @@
-var playlist = { "Bruce Springsteen": "Dancing in the Dark", "Alantic City"}
+var playlist = { "Bruce Springsteen": "Dancing in the Dark"}
 
 /*
 function updatePlaylist(playlist, artist, song){
