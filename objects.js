@@ -11,6 +11,6 @@ return playList[artistName] = songTitle
 
 
 function removeFromPlaylist(playlist, artistName){
-delete playlist.artistName
-return(playlist)
+return delete playlist[artistName]
+
 }
